@@ -1,0 +1,28 @@
+<?php require 'header.php' ?>
+<div class="container">
+    <div class="register">
+        <h2>REGISTER</h2>
+        <div class=" register-top">
+            <form>
+                <div>
+                    <span>First Name</span>
+                    <input type="text">
+                </div>
+                <div>
+                    <span>Last Name</span>
+                    <input type="text">
+                </div>
+                <div>
+                    <span>Email</span>
+                    <input type="text">
+                </div>
+                <div>
+                    <span >Password</span>
+                    <input type="password">
+                </div>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+</div>
+<?php require 'footer.php' ?>
