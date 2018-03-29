@@ -1,3 +1,4 @@
+
 <!--A Design by W3layouts
 Author: W3layout
 Author URL: http://w3layouts.com
@@ -86,3 +87,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
     <div class="clearfix"> </div>
 </div>
+<!---->
+<div class="banner">
+    <div class="container">
+        <div class="banner-matter">
+            <h1>Get active get running push your limits</h1>
+            <div class="out">
+                <a href="single.php" class="find">FIND OUT MORE </a>
+                <a href="single.php" class="shop">SHOP</a>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
