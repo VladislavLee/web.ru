@@ -69,19 +69,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </div>
         <div class="header-bottom">
             <div class="h_menu4"><!-- start h_menu4 -->
-                <a class="toggleMenu" href="#">Menu</a>
+                <a class="toggleMenu" href="#">Меню</a>
                 <ul class="nav">
-                    <li class="active"><a href="product.php">Running</a></li>
-                    <li><a href="product.php">Fitness</a></li>
-                    <li><a href="product.php">Tennis</a>
+                    <li class="active"><a href="product.php">Бег</a></li>
+                    <li><a href="product.php">Фитнес</a></li>
+                    <li><a href="product.php">Теннис</a>
                     </li>
-                    <li><a href="product.php">Football</a></li>
-                    <li><a href="product.php">Golf</a></li>
-                    <li><a href="product.php">More <i> </i></a>
+                    <li><a href="product.php">Футбол</a></li>
+                    <li><a href="product.php">Гольф</a></li>
+                    <li><a href="product.php">Подробнее<i> </i></a>
                         <ul>
-                            <li><a href="contact.php">Contact</a></li>
-                            <li><a href="account.php">Account</a></li>
-                            <li><a href="register.php">Register</a></li>
+                            <li><a href="contact.php">Контакты</a></li>
+                            <li><a href="account.php">Мой аккаунт</a></li>
+                            <li><a href="register.php">Регистрация</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -89,14 +89,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             </div><!-- end h_menu4 -->
             <ul class="header-bottom-in">
                 <li ><select class="drop">
-                        <option value="Dollars" class="in-of">Get Active</option>
-                        <option value="Euro" class="in-of">Get Active1</option>
-                        <option value="Yen" class="in-of">Get Active2</option>
+                        <option value="Dollars" class="in-of">Больше возможностей</option>
+                        <option value="Euro" class="in-of">Больше возможностей</option>
+                        <option value="Yen" class="in-of">Больше возможностей</option>
                     </select> </li>
                 <li ><select class="drop">
-                        <option value="Dollars" class="in-of">Community</option>
-                        <option value="Euro" class="in-of">Community1</option>
-                        <option value="Yen" class="in-of">Community2</option>
+                        <option value="Dollars" class="in-of">Сообщество</option>
+                        <option value="Euro" class="in-of">Сообщество</option>
+                        <option value="Rub" class="in-of">Сообщество</option>
                     </select></li>
             </ul>
             <div class="clearfix"> </div>
