@@ -4,69 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/web/product.php" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d24956a-6e34-417b-9634-fa9e29790a3f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/web.ru.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/account.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/contact.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/etalage.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/owl.carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/ac.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/img-sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pi.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pi1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pi2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pic.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pic1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pic2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pic3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pic4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pr1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pr2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pr3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/pr4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/sh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/sh1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/sh2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/si.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/si1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/si2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/si3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/v2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/vi.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/images/zoom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index/content.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index/gallery.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/classie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.etalage.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/nav.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/owl.carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/responsiveslides.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/uisearch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/product.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/product/products.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/register.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/single.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/single/content.php" />
-    </list>
+    <list default="true" id="7d24956a-6e34-417b-9634-fa9e29790a3f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -324,12 +262,20 @@
       <option name="presentableId" value="Default" />
       <updated>1522260826940</updated>
       <workItem from="1522260828134" duration="5354000" />
-      <workItem from="1522329071386" duration="1375000" />
+      <workItem from="1522329071386" duration="1512000" />
     </task>
+    <task id="LOCAL-00001" summary="version 0.01">
+      <created>1522330495132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522330495133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6729000" />
+    <option name="totallyTimeSpent" value="6866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -381,6 +327,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 0.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 0.01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
