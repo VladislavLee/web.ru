@@ -37,19 +37,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div  class="header-top">
         <div class="header-grid">
             <ul class="header-in">
-                <li ><a href="account.php">My Account   </a> </li>
-                <li>
-                    <select class="in-drop">
-                        <option value="Dollars" class="in-of">Dollars</option>
-                        <option value="Euro" class="in-of">Euro</option>
-                        <option value="Yen" class="in-of">Yen</option>
-                    </select>
-                </li>
+                <li ><a href="account.php">Мой аккаунт</a> </li>
             </ul>
             <div class="search-box">
                 <div id="sb-search" class="sb-search">
                     <form>
-                        <input class="sb-search-input" placeholder="Enter your search term..." type="search" name="search" id="search">
+                        <input class="sb-search-input" placeholder="Введите критерии поиска" type="search" name="search" id="search">
                         <input class="sb-search-submit" type="submit" value="">
                         <span class="sb-icon-search"> </span>
                     </form>
@@ -63,7 +56,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             </script>
             <!-- //search-scripts -->
             <div class="online">
-                <a href="single.php" >SHOP ONLINE</a>
+                <a href="single.php" >Купить</a>
             </div>
             <div class="clearfix"> </div>
         </div>
@@ -87,34 +80,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </ul>
                 <script type="text/javascript" src="js/nav.js"></script>
             </div><!-- end h_menu4 -->
-            <ul class="header-bottom-in">
-                <li ><select class="drop">
-                        <option value="Dollars" class="in-of">Больше возможностей</option>
-                        <option value="Euro" class="in-of">Больше возможностей</option>
-                        <option value="Yen" class="in-of">Больше возможностей</option>
-                    </select> </li>
-                <li ><select class="drop">
-                        <option value="Dollars" class="in-of">Сообщество</option>
-                        <option value="Euro" class="in-of">Сообщество</option>
-                        <option value="Rub" class="in-of">Сообщество</option>
-                    </select></li>
-            </ul>
+
             <div class="clearfix"> </div>
         </div>
     </div>
     <div class="clearfix"> </div>
 </div>
-<!---->
-<div class="banner">
-    <div class="container">
-        <div class="banner-matter">
-            <h1>Get active get running push your limits</h1>
-            <div class="out">
-                <a href="single.php" class="find">FIND OUT MORE </a>
-                <a href="single.php" class="shop">SHOP</a>
-                <div class="clearfix"> </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!---->

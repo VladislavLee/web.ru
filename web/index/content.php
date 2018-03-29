@@ -1,3 +1,17 @@
+<!---->
+<div class="banner">
+    <div class="container">
+        <div class="banner-matter">
+            <h1>Ваше Сильнее Быстрее</h1>
+            <div class="out">
+                <a href="single.php" class="find">Выйди за пределы возможного</a>
+                <a href="single.php" class="shop">Магазин</a>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
 <div class="content">
     <div class="sport-your">
         <!-- requried-jsfiles-for owl -->
