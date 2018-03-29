@@ -76,7 +76,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <li><a href="product.php">Теннис</a>
                     </li>
                     <li><a href="product.php">Футбол</a></li>
-                    <li><a href="product.php">Гольф</a></li>git add.
+                    <li><a href="product.php">Гольф</a></li>
+
+
+
+
+
+
+
                     <li><a href="product.php">Подробнее<i> </i></a>
                         <ul>
                             <li><a href="contact.php">Контакты</a></li>
